@@ -5,6 +5,7 @@
              xmlns:vm="clr-namespace:lab7_avalonia_oliGaw.ViewModels"
              mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
              x:Class="lab7_avalonia_oliGaw.Views.MainView"
+			 
              x:DataType="vm:MainViewModel">
 
 	<Design.DataContext>
